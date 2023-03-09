@@ -1,0 +1,2 @@
+# ProgrammingPatternTest
+Unityでのプログラムパターンをまとめたもの（テスト
